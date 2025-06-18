@@ -94,15 +94,6 @@ This project implements a prototype **Electronic Speed Controller (ESC)** for Br
 
 ---
 
-## 🔗 Prototyping__Open Loop to Closed Loop System
-
-- 📌 Open Loop Code with PulseInput: [GitHub ↗](https://github.com/navakd/Closed-Loop-ESC-Protoype-for-UAVs/blob/main/Open%20Loop%20prototype/ESC_timer_open_loop_arduino_pulseinput_library.ino)
-- 📌 Pin Change Interrupt Code: [GitHub ↗](https://github.com/navakd/Closed-Loop-ESC-Protoype-for-UAVs/blob/main/Open%20Loop%20prototype/ESC_timer_open_loop_arduino_pinchangeinterrupt.ino)
-- 📌 Closed Loop Control Code: [GitHub ↗](https://github.com/navakd/Closed-Loop-ESC-Protoype-for-UAVs/blob/main/Closed%20Loop%20Prototype/ESC_Closed_loop.ino)
-- 📌 Adaptive Filtering Code: [GitHub ↗](https://github.com/navakd/Closed-Loop-ESC-Protoype-for-UAVs/blob/main/Closed%20Loop%20Prototype/ESC_Closed_loop_Adaptive_Filtering.ino)
-
----
-
 ## 🧑‍💻 Author
 
 **Nava Kiran Deep**  
