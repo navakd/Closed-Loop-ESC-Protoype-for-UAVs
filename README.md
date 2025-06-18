@@ -20,7 +20,7 @@ This project implements a prototype **Electronic Speed Controller (ESC)** for Br
 
 ## 📷 Circuit Diagrams
 
-### Schematic (Courtesy: ![](https://github.com/sidharthmohannair/OpenESC?tab=readme-ov-file)
+### Schematic (Courtesy: ![Sidharth Mohan Nair](https://github.com/sidharthmohannair/OpenESC?tab=readme-ov-file)
 ![ckt dgm ](https://github.com/sidharthmohannair/OpenESC/blob/main/hardware/schematic_diagram_v1.0.pdf)
 
 **Voltage Divider Feedback Circuit**
