@@ -71,7 +71,7 @@ This project implements a prototype **Electronic Speed Controller (ESC)** for Br
 ## 📘 Documentation
 
 👉 Full detailed documentation with figures, explanations, and implementation logic is available here:  
-📄 [`ESC_documentation.pdf`]()
+📄 [`ESC_documentation.pdf`](documentation/ESC_documentation.pdf)
 
 ---
 
@@ -90,7 +90,6 @@ This project implements a prototype **Electronic Speed Controller (ESC)** for Br
 - Replace comparator with ADC-based back-EMF sampling for more robust detection.
 - Implement **FOC (Field-Oriented Control)** using STM32 for smoother control.
 - Add current sensing for overload and stall protection.
-- Incorporate telemetry feedback to the flight controller via UART.
 
 ---
 
