@@ -93,13 +93,6 @@ This project implements a prototype **Electronic Speed Controller (ESC)** for Br
 
 ---
 
-## 🧑‍💻 Author
-
-**Nava Kiran Deep**  
-🔬 Embedded Systems and Motor Control Enthusiast  
-🌐 [github.com/navakd](https://github.com/navakd)
-
----
 
 ## 📄 License
 
